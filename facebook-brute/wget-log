@@ -1,0 +1,10 @@
+--2019-04-26 01:32:55--  http://override.waper.co/files/facebook.apk
+Resolving override.waper.co... 67.227.226.240, 64:ff9c::43e3:e2f0, 64:ff9b::43e3:e2f0
+Connecting to override.waper.co|67.227.226.240|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww12.waper.co [following]
+--2019-04-26 01:32:55--  http://ww12.waper.co/
+Resolving ww12.waper.co... 112.215.197.131, 64:ff9c::70d7:c583, 64:ff9b::70d7:c583
+Connecting to ww12.waper.co|112.215.197.131|:80... failed: Connection timed out.
+Connecting to ww12.waper.co|64:ff9c::70d7:c583|:80... failed: Network is unreachable.
+Connecting to ww12.waper.co|64:ff9b::70d7:c583|:80... failed: Network is unreachable.
